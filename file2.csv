@@ -1,0 +1,6 @@
+default_code,name,barcode,supplier_taxes_id,taxes_id,categ_id,standard_price,list_price,type
+,CINTA EPSON PUNTO DE VENTA NEGRO,10343812628,Purchase Tax,Sales Tax,All,1.00,999,product
+,TINTAS EPSON 664 NEGROÊ,10343885295,Purchase Tax,Sales Tax,All,1.00,4999,product
+,TINTAS EPSON 664 CIANO,10343885301,Purchase Tax,Sales Tax,All,1.00,4999,product
+,TINTAS EPSON 664 MAGENTA,10343885318,Purchase Tax,Sales Tax,All,1.00,4999,product
+,TINTAS EPSON 664 AMARILLO,10343885325,Purchase Tax,Sales Tax,All,1.00,4999,product
