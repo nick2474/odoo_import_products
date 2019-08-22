@@ -17,9 +17,9 @@
           'list_price':row[8],
           'type':'product'}
 
-2. File .csv structure
-default_code,name,barcode,supplier_taxes_id,taxes_id,categ_id,standard_price,list_price,type
-123,CINTA EPSON PUNTO DE VENTA NEGRO,10343812628,Purchase Tax,Sales Tax,All,1.00,999,product
+2.File .csv structure.
+   default_code,name,barcode,supplier_taxes_id,taxes_id,categ_id,standard_price,list_price,type
+   123,CINTA EPSON PUNTO DE VENTA NEGRO,10343812628,Purchase Tax,Sales Tax,All,1.00,999,product
 
 3.Execute command on the same folder.
 
